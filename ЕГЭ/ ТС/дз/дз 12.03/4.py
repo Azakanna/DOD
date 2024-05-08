@@ -1,0 +1,5 @@
+rub=int(input())
+kop= int(input())
+pir= int(input())
+summa=pir*(100*rub+kop)
+print(summa//100,summa% 100)
